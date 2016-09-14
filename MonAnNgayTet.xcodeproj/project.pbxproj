@@ -7,21 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F5744F671D88113600D30E3B /* NgayXuanLongPhungSumVay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F5744F661D88113600D30E3B /* NgayXuanLongPhungSumVay.mp3 */; };
+		F5A7F7FC1D86F3AB00340328 /* MasterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5A7F7FB1D86F3AB00340328 /* MasterVC.swift */; };
+		F5A7F7FF1D86F3D000340328 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5A7F7FD1D86F3D000340328 /* Cell.swift */; };
+		F5A7F8001D86F3D000340328 /* Cell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5A7F7FE1D86F3D000340328 /* Cell.xib */; };
+		F5A7F8021D87002100340328 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5A7F8011D87002100340328 /* DetailVC.swift */; };
 		F5CA66C81D85A1F700A68FCA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CA66C71D85A1F700A68FCA /* AppDelegate.swift */; };
-		F5CA66CA1D85A1F700A68FCA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CA66C91D85A1F700A68FCA /* ViewController.swift */; };
 		F5CA66CD1D85A1F700A68FCA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66CB1D85A1F700A68FCA /* Main.storyboard */; };
 		F5CA66CF1D85A1F700A68FCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66CE1D85A1F700A68FCA /* Assets.xcassets */; };
 		F5CA66D21D85A1F700A68FCA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66D01D85A1F700A68FCA /* LaunchScreen.storyboard */; };
+		F5CA66DD1D85A23A00A68FCA /* CacMonAn.plist in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66DC1D85A23A00A68FCA /* CacMonAn.plist */; };
+		F5CA66E91D85A8DE00A68FCA /* thitkhotrung.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66DF1D85A8DE00A68FCA /* thitkhotrung.jpg */; };
+		F5CA66EA1D85A8DE00A68FCA /* canhkhoqua.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66E01D85A8DE00A68FCA /* canhkhoqua.jpg */; };
+		F5CA66EB1D85A8DE00A68FCA /* canhbongtha.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66E11D85A8DE00A68FCA /* canhbongtha.jpg */; };
+		F5CA66EC1D85A8DE00A68FCA /* canhmangkho.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66E21D85A8DE00A68FCA /* canhmangkho.jpg */; };
+		F5CA66ED1D85A8DE00A68FCA /* gio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66E31D85A8DE00A68FCA /* gio.jpg */; };
+		F5CA66EE1D85A8DE00A68FCA /* galuoc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66E41D85A8DE00A68FCA /* galuoc.jpg */; };
+		F5CA66EF1D85A8DE00A68FCA /* nemran.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66E51D85A8DE00A68FCA /* nemran.jpg */; };
+		F5CA66F01D85A8DE00A68FCA /* thitdong.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66E61D85A8DE00A68FCA /* thitdong.jpg */; };
+		F5CA66F11D85A8DE00A68FCA /* duahanh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66E71D85A8DE00A68FCA /* duahanh.jpg */; };
+		F5CA66F21D85A8DE00A68FCA /* banhtrung.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F5CA66E81D85A8DE00A68FCA /* banhtrung.jpg */; };
+		F5CA66F41D85AD6700A68FCA /* MonAn.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CA66F31D85AD6700A68FCA /* MonAn.swift */; };
+		F5CA66F61D85AE0400A68FCA /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CA66F51D85AE0400A68FCA /* DataManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F5744F661D88113600D30E3B /* NgayXuanLongPhungSumVay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = NgayXuanLongPhungSumVay.mp3; sourceTree = "<group>"; };
+		F5A7F7FB1D86F3AB00340328 /* MasterVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasterVC.swift; sourceTree = "<group>"; };
+		F5A7F7FD1D86F3D000340328 /* Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
+		F5A7F7FE1D86F3D000340328 /* Cell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Cell.xib; sourceTree = "<group>"; };
+		F5A7F8011D87002100340328 /* DetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 		F5CA66C41D85A1F700A68FCA /* MonAnNgayTet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MonAnNgayTet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5CA66C71D85A1F700A68FCA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F5CA66C91D85A1F700A68FCA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F5CA66CC1D85A1F700A68FCA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F5CA66CE1D85A1F700A68FCA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5CA66D11D85A1F700A68FCA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F5CA66D31D85A1F700A68FCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5CA66DC1D85A23A00A68FCA /* CacMonAn.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CacMonAn.plist; sourceTree = "<group>"; };
+		F5CA66DF1D85A8DE00A68FCA /* thitkhotrung.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thitkhotrung.jpg; sourceTree = "<group>"; };
+		F5CA66E01D85A8DE00A68FCA /* canhkhoqua.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = canhkhoqua.jpg; sourceTree = "<group>"; };
+		F5CA66E11D85A8DE00A68FCA /* canhbongtha.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = canhbongtha.jpg; sourceTree = "<group>"; };
+		F5CA66E21D85A8DE00A68FCA /* canhmangkho.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = canhmangkho.jpg; sourceTree = "<group>"; };
+		F5CA66E31D85A8DE00A68FCA /* gio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gio.jpg; sourceTree = "<group>"; };
+		F5CA66E41D85A8DE00A68FCA /* galuoc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = galuoc.jpg; sourceTree = "<group>"; };
+		F5CA66E51D85A8DE00A68FCA /* nemran.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nemran.jpg; sourceTree = "<group>"; };
+		F5CA66E61D85A8DE00A68FCA /* thitdong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thitdong.jpg; sourceTree = "<group>"; };
+		F5CA66E71D85A8DE00A68FCA /* duahanh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = duahanh.jpg; sourceTree = "<group>"; };
+		F5CA66E81D85A8DE00A68FCA /* banhtrung.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = banhtrung.jpg; sourceTree = "<group>"; };
+		F5CA66F31D85AD6700A68FCA /* MonAn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonAn.swift; sourceTree = "<group>"; };
+		F5CA66F51D85AE0400A68FCA /* DataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +88,55 @@
 		F5CA66C61D85A1F700A68FCA /* MonAnNgayTet */ = {
 			isa = PBXGroup;
 			children = (
+				F5744F661D88113600D30E3B /* NgayXuanLongPhungSumVay.mp3 */,
+				F5CA66DE1D85A8C300A68FCA /* Images */,
+				F5CA66DB1D85A21500A68FCA /* ViewController */,
+				F5CA66DA1D85A20800A68FCA /* Model */,
 				F5CA66C71D85A1F700A68FCA /* AppDelegate.swift */,
-				F5CA66C91D85A1F700A68FCA /* ViewController.swift */,
-				F5CA66CB1D85A1F700A68FCA /* Main.storyboard */,
 				F5CA66CE1D85A1F700A68FCA /* Assets.xcassets */,
 				F5CA66D01D85A1F700A68FCA /* LaunchScreen.storyboard */,
 				F5CA66D31D85A1F700A68FCA /* Info.plist */,
 			);
 			path = MonAnNgayTet;
+			sourceTree = "<group>";
+		};
+		F5CA66DA1D85A20800A68FCA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F5CA66DC1D85A23A00A68FCA /* CacMonAn.plist */,
+				F5CA66F31D85AD6700A68FCA /* MonAn.swift */,
+				F5CA66F51D85AE0400A68FCA /* DataManager.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		F5CA66DB1D85A21500A68FCA /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				F5CA66CB1D85A1F700A68FCA /* Main.storyboard */,
+				F5A7F7FB1D86F3AB00340328 /* MasterVC.swift */,
+				F5A7F8011D87002100340328 /* DetailVC.swift */,
+				F5A7F7FD1D86F3D000340328 /* Cell.swift */,
+				F5A7F7FE1D86F3D000340328 /* Cell.xib */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		F5CA66DE1D85A8C300A68FCA /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				F5CA66DF1D85A8DE00A68FCA /* thitkhotrung.jpg */,
+				F5CA66E01D85A8DE00A68FCA /* canhkhoqua.jpg */,
+				F5CA66E11D85A8DE00A68FCA /* canhbongtha.jpg */,
+				F5CA66E21D85A8DE00A68FCA /* canhmangkho.jpg */,
+				F5CA66E31D85A8DE00A68FCA /* gio.jpg */,
+				F5CA66E41D85A8DE00A68FCA /* galuoc.jpg */,
+				F5CA66E51D85A8DE00A68FCA /* nemran.jpg */,
+				F5CA66E61D85A8DE00A68FCA /* thitdong.jpg */,
+				F5CA66E71D85A8DE00A68FCA /* duahanh.jpg */,
+				F5CA66E81D85A8DE00A68FCA /* banhtrung.jpg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,8 +197,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5CA66DD1D85A23A00A68FCA /* CacMonAn.plist in Resources */,
+				F5A7F8001D86F3D000340328 /* Cell.xib in Resources */,
+				F5CA66EB1D85A8DE00A68FCA /* canhbongtha.jpg in Resources */,
+				F5CA66E91D85A8DE00A68FCA /* thitkhotrung.jpg in Resources */,
+				F5CA66ED1D85A8DE00A68FCA /* gio.jpg in Resources */,
+				F5CA66EA1D85A8DE00A68FCA /* canhkhoqua.jpg in Resources */,
 				F5CA66D21D85A1F700A68FCA /* LaunchScreen.storyboard in Resources */,
+				F5CA66EC1D85A8DE00A68FCA /* canhmangkho.jpg in Resources */,
+				F5CA66F11D85A8DE00A68FCA /* duahanh.jpg in Resources */,
+				F5CA66EF1D85A8DE00A68FCA /* nemran.jpg in Resources */,
+				F5CA66F21D85A8DE00A68FCA /* banhtrung.jpg in Resources */,
+				F5744F671D88113600D30E3B /* NgayXuanLongPhungSumVay.mp3 in Resources */,
+				F5CA66F01D85A8DE00A68FCA /* thitdong.jpg in Resources */,
 				F5CA66CF1D85A1F700A68FCA /* Assets.xcassets in Resources */,
+				F5CA66EE1D85A8DE00A68FCA /* galuoc.jpg in Resources */,
 				F5CA66CD1D85A1F700A68FCA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -135,8 +223,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F5CA66CA1D85A1F700A68FCA /* ViewController.swift in Sources */,
+				F5CA66F61D85AE0400A68FCA /* DataManager.swift in Sources */,
 				F5CA66C81D85A1F700A68FCA /* AppDelegate.swift in Sources */,
+				F5A7F7FF1D86F3D000340328 /* Cell.swift in Sources */,
+				F5A7F7FC1D86F3AB00340328 /* MasterVC.swift in Sources */,
+				F5CA66F41D85AD6700A68FCA /* MonAn.swift in Sources */,
+				F5A7F8021D87002100340328 /* DetailVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +380,7 @@
 				F5CA66D81D85A1F700A68FCA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

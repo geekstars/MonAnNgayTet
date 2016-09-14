@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>item 1</key>
+	<dict>
+		<key>name</key>
+		<string>Bánh Trưng</string>
+		<key>photo</key>
+		<string>banhtrung</string>
+		<key>info</key>
+		<string>Nhắc đến ngày Tết là nhắc đến bánh chưng, món ăn thể hiện sự kết tinh của đất trời, mang đến khát vọng cho một năm mới đầy đủ và sung túc. Để có được chiếc bánh chưng ngon đòi hỏi sự tinh tế, tỉ mỉ và khéo léo của người thực hiện. Sự kết hợp của vị thơm từ gạo, vị ngọt bùi của đổ kết hợp với vị béo của thịt mỡ, vị cay nhẹ của hạt tiêu sẽ mang đến những ngày Tết trọn vị.</string>
+	</dict>
+	<key>item 2</key>
+	<dict>
+		<key>name</key>
+		<string>Dưa Hành</string>
+		<key>photo</key>
+		<string>duahanh</string>
+		<key>info</key>
+		<string>Dưa hành là một món ăn truyền thống, dân dã và bình dị trong mâm cỗ Tết của người miền Bắc. Dưa hành thường được ăn kèm với bánh chưng, thịt đông sẽ mang đến cảm giác ngon miệng và là món chống ngán rất hữu hiệu trong ngày Tết.</string>
+	</dict>
+	<key>item 3</key>
+	<dict>
+		<key>name</key>
+		<string>Thịt Đông</string>
+		<key>photo</key>
+		<string>thitdong</string>
+		<key>info</key>
+		<string>Thịt đông là món ăn đặc trưng cho khí hậu của miền Bắc. Giữa tiết trời se lạnh, thưởng thức món thịt đông sẽ mang lại cảm giác ngon miệng và hấp dẫn đến lạ.</string>
+	</dict>
+	<key>item 4</key>
+	<dict>
+		<key>name</key>
+		<string>Nem Rán</string>
+		<key>photo</key>
+		<string>nemran</string>
+		<key>info</key>
+		<string>Sở hữu lớp vỏ giòn rụm, lớp nhân thơm mềm, nem rán là món ăn độc đáo không thể thiếu được trong ngày Tết của người miền Bắc. Đây là lựa chọn được mọi lứa tuổi vô cùng yêu thích, từ người già cho đến trẻ em.</string>
+	</dict>
+	<key>item 5</key>
+	<dict>
+		<key>name</key>
+		<string>Gà Luộc</string>
+		<key>photo</key>
+		<string>galuoc</string>
+		<key>info</key>
+		<string>Thịt gà luộc là món ăn đơn giản nhưng không thể thiếu được trong mâm cỗ ngày Tết của người miền Bắc. Vị ngọt thơm của thịt gà ăn kèm lá chanh, chấm gia vị chanh ớt luôn tạo nên một hương vị riêng rất khó quên.</string>
+	</dict>
+	<key>item 6</key>
+	<dict>
+		<key>name</key>
+		<string>Giò</string>
+		<key>photo</key>
+		<string>gio</string>
+		<key>info</key>
+		<string>Khi nhắc đến mâm cỗ cổ truyền ngày Tết của người miền Bắc, chúng ta không thể không nhắc đến món giò. Đó có thể là giò nạc, giò thủ,… tùy theo sở thích của từng gia đình.</string>
+	</dict>
+	<key>item 7</key>
+	<dict>
+		<key>name</key>
+		<string>Canh Măng Khô</string>
+		<key>photo</key>
+		<string>canhmangkho</string>
+		<key>info</key>
+		<string>Để có được một bát canh măng ngon, măng khô thường được ngâm trước Tết, sau đó luộc qua nhiều nước và nấu chung với móng giò. Bát canh măng nóng hổi, thơm lừng, béo ngậy luôn giữ một vị trí đặc biệt trong mâm cỗ ngày Tết.</string>
+	</dict>
+	<key>item 8</key>
+	<dict>
+		<key>name</key>
+		<string>Canh Bông Thả</string>
+		<key>photo</key>
+		<string>canhbongtha</string>
+		<key>info</key>
+		<string>Để mâm cỗ ngày tết thêm phần phong phú và đẹp mắt, canh bóng thả là món ăn không thể thiếu. Vì giòn của bóng, vị ngọt của nấm hương, của giò, của rau xanh không chỉ khiến người ăn ngon miệng mà còn cung cấp đủ lượng Vitamin và chất xơ cho cơ thể.</string>
+	</dict>
+	<key>item 9</key>
+	<dict>
+		<key>name</key>
+		<string>Canh Khổ Qua Nhồi Thịt</string>
+		<key>photo</key>
+		<string>canhkhoqua</string>
+		<key>info</key>
+		<string>Nếu như trong mâm cỗ của người miền Bắc không bao giờ thiếu canh măng hầm giò heo thì với người miền Nam không thể thiếu canh khổ qua nhồi thịt. Món ăn này có ý nghĩa xua tan mọi khó khăn, khổ cực của năm cũ, mang lại 1 niềm vui và lạc quan, may mắn cho năm mới. Đây là món ăn tốt cho sức khỏe và mang hương vị rất riêng.</string>
+	</dict>
+	<key>item 10</key>
+	<dict>
+		<key>name</key>
+		<string>Thịt Kho Trứng</string>
+		<key>photo</key>
+		<string>thitkhotrung</string>
+		<key>info</key>
+		<string>Thịt kho trứng cũng là món ăn truyền thống của người Việt Nam. Món ăn này thường dùng thịt ba chỉ, kho cùng trứng luộc rồi ăn kèm với dưa chua và cơm trắng.</string>
+	</dict>
+</dict>
+</plist>
